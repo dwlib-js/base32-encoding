@@ -18,5 +18,7 @@ const {
 } = base32Encoding;
 
 Base32Encoding.BASIC.alphabet; // => 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567'
+Base32Encoding.BASIC.padding; // => '='
 Base32Encoding.HEX.alphabet; // => '0123456789ABCDEFGHIJKLMNOPQRSTUV'
+Base32Encoding.HEX.padding; // => '='
 ```
