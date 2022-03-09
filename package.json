@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/base32-encoding",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base32 Encoding",
   "main": "lib/index.js",
   "exports": {
